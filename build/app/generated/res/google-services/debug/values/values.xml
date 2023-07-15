@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">517448747333-47e0i2084iq7tm768h33i07g4m7etk0d.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">517448747333</string>
+    <string name="google_api_key" translatable="false">AIzaSyC9623yLyrmo83WmXAsD0D3MlgS2PcCrX8</string>
+    <string name="google_app_id" translatable="false">1:517448747333:android:7f468179b0afbd1da6162c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC9623yLyrmo83WmXAsD0D3MlgS2PcCrX8</string>
+    <string name="google_storage_bucket" translatable="false">sarpras-32c24.appspot.com</string>
+    <string name="project_id" translatable="false">sarpras-32c24</string>
+</resources>
